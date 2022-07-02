@@ -3,7 +3,7 @@
 ```javascript
 const me = {
    coding: ['JavaScript', 'HTML', 'CSS', 'Python'],
-   tools: ['NodeJS', 'MongoDB', 'Express.js', 'ReactJS', 'MySQL'],
-   stack: 'MERN',
+   tools: ['NodeJS', 'MongoDB', 'Express.js', 'Angular', 'MySQL'],
+   stack: 'MEAN',
 };
 ```
